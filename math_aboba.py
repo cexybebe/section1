@@ -1,4 +1,5 @@
 import time
+import unittest
 from math import ceil, pow, pi, e
 from selenium import webdriver
 # импортируем класс By, который позволяет выбрать способ поиска элемента
